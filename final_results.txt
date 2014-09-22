@@ -1,0 +1,52 @@
+DETAIL REPORT
+  Product: MacBook Pro
+        High:2400.0
+        Low: 0.0
+        Avg: 1537.5
+        Total QTY: 13
+        Total Revenue: 24300.0
+  Product: Dell PC Laptop
+        High:1000.0
+        Low: 750.0
+        Avg: 875.0
+        Total QTY: 16
+        Total Revenue: 13000.0
+  Product: HP Desktop PC
+        High:1250.0
+        Low: 1250.0
+        Avg: 1250.0
+        Total QTY: 4
+        Total Revenue: 5000.0
+  Product: BlueTooth Keyboard and Mouse
+        High:65.0
+        Low: 65.0
+        Avg: 65.0
+        Total QTY: 45
+        Total Revenue: 2925.0
+  Product: 21" flat screen LCD Monitor
+        High:195.0
+        Low: 175.0
+        Avg: 185.0
+        Total QTY: 112
+        Total Revenue: 19840.0
+  Product: "All in One Printer, Scanner, Fax"
+        High:235.0
+        Low: 225.0
+        Avg: 230.0
+        Total QTY: 20
+        Total Revenue: 4580.0
+  Product: "Office Furniture: chair, desk, lamp"
+        High:1300.0
+        Low: 1200.0
+        Avg: 1057.142857142857
+        Total QTY: 109
+        Total Revenue: 127800.0
+  Product: business card holder
+        High:12.5
+        Low: 12.5
+        Avg: 12.5
+        Total QTY: 15
+        Total Revenue: 187.5
+
+
+ >>>>>>>>  TOTOAL REVENUE: 197632.5
