@@ -39,6 +39,9 @@ Basic things to discuss and watch out for:
 *	uploading csv files to server in rails apps - timeout issues.   I've had to deal with this using the delayed_jobs gem because rails will time out if the csv file is too large.  
 
 # Coding Exercise - let's build a csv parser! (oh boy!!!)
+
+###### the code can be published for other users by adding it to this gist: https://gist.github.com/aamax/3fdf85c50407bad9c630
+
 The challenge this month is to build a parser to read csv files.  The parameters are as follows:
 *	You may NOT use any external libraries for reading csv files (like faster csv) to solve the challenge.
 *	You must account for quoted strings (quotes will always be double quote chars: "") and allow the file delimiter to be embedded within the quotes
